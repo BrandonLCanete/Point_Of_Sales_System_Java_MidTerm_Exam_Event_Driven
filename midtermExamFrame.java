@@ -2,7 +2,8 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
-package midtermExamPackage;
+
+package midtermExamPackage.Point_Of_Sales_System_Java_MidTerm_Exam_Event_Driven;
 
 import java.awt.Color;
 import java.awt.event.KeyEvent;
